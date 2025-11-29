@@ -55,5 +55,5 @@ This software is provided as freeware. See the LICENSE file for details.
 For bug reports, feature requests, or other issues, please create an issue in this repository.
 
 ## Screenshots
+<img width="900" height="750" alt="Capture d’écran 2025-11-29 175513" src="https://github.com/user-attachments/assets/ce987bda-9df3-4cdb-8530-71d22ec41b32" />
 
-[Include screenshots showing the main interface, filtering in progress, and filtered results with highlighting]
