@@ -11,7 +11,6 @@ Viper Filter is a professional file filtering and text analysis application desi
 - **Keyword Highlighting**: Visual highlighting of matched keywords within filtered results
 - **Multiple Output Options**: Copy selected text, copy all results, or export filtered results to a new file
 - **Persistent Settings**: Remembers recent files, window geometry, and application preferences
-- **User-Friendly Interface**: Professional dark "matrix" themed interface with collapsible sidebar
 
 ## System Requirements
 
