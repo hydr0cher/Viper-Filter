@@ -40,7 +40,7 @@ Viper Filter is a professional file filtering and text analysis application desi
 
 ## Download
 
-The pre-compiled executable is available in the [Releases section](https://github.com/hydr0cher/ViperFilter/releases).
+The pre-compiled executable is available in the [Releases section](https://github.com/hydr0cher/Viper-Filter/releases/tag/v1.0.0).
 
 Simply download `ViperFilter.exe` and run it. No installation is required.
 
